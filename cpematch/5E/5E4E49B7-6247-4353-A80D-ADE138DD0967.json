@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "5E4E49B7-6247-4353-A80D-ADE138DD0967", "criteria": "cpe:2.3:a:apache:aurora:*:*:*:*:*:*:*:*", "versionStartIncluding": "0.10.0", "versionEndExcluding": "0.18.1", "lastModified": "2024-07-22T13:45:48.227", "cpeLastModified": "2024-07-22T13:47:23.310", "created": "2024-07-22T13:45:48.227", "status": "Active"}}
