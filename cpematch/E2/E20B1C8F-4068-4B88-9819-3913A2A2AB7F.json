@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "E20B1C8F-4068-4B88-9819-3913A2A2AB7F", "criteria": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*", "versionStartIncluding": "9.2.0", "versionEndIncluding": "9.2.9", "lastModified": "2024-07-25T12:26:59.047", "cpeLastModified": "2024-07-25T12:25:40.443", "created": "2024-07-25T12:25:40.443", "status": "Inactive"}}
