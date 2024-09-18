@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "2B30F9DD-49C0-4EF2-90FA-31C0775EA49D", "criteria": "cpe:2.3:a:apache:seata:*:*:*:*:*:*:*:*", "versionStartIncluding": "1.0.0", "versionEndExcluding": "1.8.1", "lastModified": "2024-09-18T14:20:03.290", "cpeLastModified": "2024-09-18T14:20:03.290", "created": "2024-09-18T14:20:03.290", "status": "Active"}}
