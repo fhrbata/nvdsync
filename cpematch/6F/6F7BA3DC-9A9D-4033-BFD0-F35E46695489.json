@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6F7BA3DC-9A9D-4033-BFD0-F35E46695489", "criteria": "cpe:2.3:a:ivanti:endpoint_manager_mobile:*:*:*:*:*:*:*:*", "versionStartIncluding": "12.1.0.0", "versionEndExcluding": "12.1.0.4", "lastModified": "2024-12-18T18:25:27.170", "cpeLastModified": "2024-12-18T18:25:27.170", "created": "2024-12-18T18:25:27.170", "status": "Active"}}
