@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "FB551B24-0E93-4F5F-B201-B96E875D49B4", "criteria": "cpe:2.3:a:apache:apache-airflow-providers-snowflake:*:*:*:*:*:*:*:*", "versionEndExcluding": "6.4.0", "lastModified": "2025-07-11T18:36:03.507", "cpeLastModified": "2025-07-11T18:36:03.507", "created": "2025-07-11T18:36:03.507", "status": "Active"}}
