@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "479CA63D-4C41-4CA1-9655-A8BD43311CEA", "criteria": "cpe:2.3:a:fortra:goanywhere_managed_file_transfer:*:*:*:*:*:*:*:*", "versionStartIncluding": "7.7.0", "versionEndExcluding": "7.8.4", "lastModified": "2025-09-30T14:25:01.460", "cpeLastModified": "2025-09-30T14:25:01.460", "created": "2025-09-30T14:25:01.460", "status": "Active"}}
