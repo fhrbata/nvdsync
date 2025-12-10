@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "0DB7D01D-5361-40FC-83A9-91A601A0321D", "criteria": "cpe:2.3:a:golang:crypto:*:*:*:*:*:go:*:*", "versionEndExcluding": "0.45.0", "lastModified": "2025-12-10T16:07:57.260", "created": "2025-12-10T16:07:57.260", "status": "Active"}}
