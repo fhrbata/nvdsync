@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "7C4E14BA-C772-46BA-BC92-02A07FB8B574", "criteria": "cpe:2.3:a:stellar:rs-soroban-sdk:*:*:*:*:*:rust:*:*", "versionStartIncluding": "23.0.0", "versionEndExcluding": "23.5.2", "lastModified": "2026-02-20T18:19:33.747", "cpeLastModified": "2026-02-20T18:19:33.747", "created": "2026-02-20T18:19:33.747", "status": "Active"}}
