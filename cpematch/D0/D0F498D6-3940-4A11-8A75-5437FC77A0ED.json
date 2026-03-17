@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D0F498D6-3940-4A11-8A75-5437FC77A0ED", "criteria": "cpe:2.3:a:sindresorhus:file-type:*:*:*:*:*:node.js:*:*", "versionStartIncluding": "20.0.0", "versionEndExcluding": "21.3.2", "lastModified": "2026-03-17T19:05:15.470", "created": "2026-03-17T19:05:15.470", "status": "Active"}}
