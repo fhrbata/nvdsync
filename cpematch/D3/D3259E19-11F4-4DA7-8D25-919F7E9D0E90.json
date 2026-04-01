@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "D3259E19-11F4-4DA7-8D25-919F7E9D0E90", "criteria": "cpe:2.3:a:networktocode:nautobot:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.0", "versionEndExcluding": "3.0.10", "lastModified": "2026-04-01T20:44:24.893", "cpeLastModified": "2026-04-01T20:44:24.893", "created": "2026-04-01T20:44:24.893", "status": "Active"}}
