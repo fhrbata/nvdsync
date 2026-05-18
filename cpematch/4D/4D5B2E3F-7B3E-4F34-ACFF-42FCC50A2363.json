@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "4D5B2E3F-7B3E-4F34-ACFF-42FCC50A2363", "criteria": "cpe:2.3:a:pocketbase:pocketbase:*:*:*:*:*:go:*:*", "versionStartIncluding": "0.23.0", "versionEndExcluding": "0.37.4", "lastModified": "2026-05-18T17:17:00.210", "cpeLastModified": "2026-05-18T17:17:00.210", "created": "2026-05-18T17:17:00.210", "status": "Active"}}
