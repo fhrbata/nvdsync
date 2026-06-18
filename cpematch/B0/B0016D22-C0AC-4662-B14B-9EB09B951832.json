@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "B0016D22-C0AC-4662-B14B-9EB09B951832", "criteria": "cpe:2.3:a:oracle:mysql_router:*:*:*:*:*:*:*:*", "versionStartIncluding": "8.4.0", "versionEndIncluding": "8.4.9", "lastModified": "2026-06-18T18:19:42.430", "created": "2026-06-18T18:19:42.430", "status": "Active"}}
