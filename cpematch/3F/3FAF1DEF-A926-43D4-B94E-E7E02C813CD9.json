@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "3FAF1DEF-A926-43D4-B94E-E7E02C813CD9", "criteria": "cpe:2.3:a:redhat:update_infrastructure:*:*:*:*:*:*:*:*", "versionStartIncluding": "5.0", "versionEndExcluding": "5.2", "lastModified": "2026-08-11T14:44:12.740", "created": "2026-08-11T14:44:12.740", "status": "Active"}}
