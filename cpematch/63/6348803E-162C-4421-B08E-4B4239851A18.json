@@ -1,0 +1,1 @@
+{"matchString": {"matchCriteriaId": "6348803E-162C-4421-B08E-4B4239851A18", "criteria": "cpe:2.3:a:openssl:openssl:*:*:*:*:*:*:*:*", "versionStartIncluding": "3.0.16", "versionEndExcluding": "3.0.18", "lastModified": "2026-11-06T19:06:34.447", "cpeLastModified": "2026-11-06T19:06:34.447", "created": "2026-11-06T19:06:34.447", "status": "Active"}}
